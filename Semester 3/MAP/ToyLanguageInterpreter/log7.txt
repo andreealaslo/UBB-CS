@@ -1,0 +1,511 @@
+Id: 1
+Execution stack: 
+(int v|(Ref(int) a|(v=10|(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a))))))))
+Symbol table: 
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+int v
+(Ref(int) a|(v=10|(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a)))))))
+Symbol table: 
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+int v
+(Ref(int) a|(v=10|(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a)))))))
+Symbol table: 
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+(Ref(int) a|(v=10|(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a)))))))
+Symbol table: 
+v -> 0
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+(Ref(int) a|(v=10|(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a)))))))
+Symbol table: 
+v -> 0
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+Ref(int) a
+(v=10|(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a))))))
+Symbol table: 
+v -> 0
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+Ref(int) a
+(v=10|(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a))))))
+Symbol table: 
+v -> 0
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+(v=10|(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a))))))
+Symbol table: 
+a -> (0, int)
+v -> 0
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+(v=10|(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a))))))
+Symbol table: 
+a -> (0, int)
+v -> 0
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+v=10
+(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a)))))
+Symbol table: 
+a -> (0, int)
+v -> 0
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+v=10
+(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a)))))
+Symbol table: 
+a -> (0, int)
+v -> 0
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a)))))
+Symbol table: 
+a -> (0, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+(New(a, 22)|(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a)))))
+Symbol table: 
+a -> (0, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+New(a, 22)
+(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a))))
+Symbol table: 
+a -> (0, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+New(a, 22)
+(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a))))
+Symbol table: 
+a -> (0, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+
+
+Id: 1
+Execution stack: 
+(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a))))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 1
+Execution stack: 
+(fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))|(print(v)|print(rH(a))))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 1
+Execution stack: 
+fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))
+(print(v)|print(rH(a)))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 1
+Execution stack: 
+fork((wH(a, 30)|(v=32|(print(v)|print(rH(a))))))
+(print(v)|print(rH(a)))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 1
+Execution stack: 
+(print(v)|print(rH(a)))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 2
+Execution stack: 
+(wH(a, 30)|(v=32|(print(v)|print(rH(a)))))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 1
+Execution stack: 
+(print(v)|print(rH(a)))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 2
+Execution stack: 
+(wH(a, 30)|(v=32|(print(v)|print(rH(a)))))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 1
+Execution stack: 
+print(v)
+print(rH(a))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 2
+Execution stack: 
+wH(a, 30)
+(v=32|(print(v)|print(rH(a))))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 1
+Execution stack: 
+print(v)
+print(rH(a))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 2
+Execution stack: 
+wH(a, 30)
+(v=32|(print(v)|print(rH(a))))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+File table:
+Heap Table:
+1 -> 22
+
+
+Id: 1
+Execution stack: 
+print(rH(a))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+10
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+(v=32|(print(v)|print(rH(a))))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+10
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 1
+Execution stack: 
+print(rH(a))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+10
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+(v=32|(print(v)|print(rH(a))))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+10
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 1
+Execution stack: 
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+10
+30
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+v=32
+(print(v)|print(rH(a)))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+10
+30
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+v=32
+(print(v)|print(rH(a)))
+Symbol table: 
+a -> (1, int)
+v -> 10
+Output list: 
+10
+30
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+(print(v)|print(rH(a)))
+Symbol table: 
+a -> (1, int)
+v -> 32
+Output list: 
+10
+30
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+(print(v)|print(rH(a)))
+Symbol table: 
+a -> (1, int)
+v -> 32
+Output list: 
+10
+30
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+print(v)
+print(rH(a))
+Symbol table: 
+a -> (1, int)
+v -> 32
+Output list: 
+10
+30
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+print(v)
+print(rH(a))
+Symbol table: 
+a -> (1, int)
+v -> 32
+Output list: 
+10
+30
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+print(rH(a))
+Symbol table: 
+a -> (1, int)
+v -> 32
+Output list: 
+10
+30
+32
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+print(rH(a))
+Symbol table: 
+a -> (1, int)
+v -> 32
+Output list: 
+10
+30
+32
+File table:
+Heap Table:
+1 -> 30
+
+
+Id: 2
+Execution stack: 
+Symbol table: 
+a -> (1, int)
+v -> 32
+Output list: 
+10
+30
+32
+30
+File table:
+Heap Table:
+1 -> 30
+
+
