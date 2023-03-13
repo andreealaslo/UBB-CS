@@ -1,0 +1,15 @@
+# ninja log v5
+593	4094	6751959566568879	CMakeFiles/DSA_PW3_map_slla.dir/Map.cpp.obj	b87043703ae00a9b
+1832	4700	6751959573208788	CMakeFiles/DSA_PW3_map_slla.dir/App.cpp.obj	7e9ead951457b776
+504	4078	6751959566728797	CMakeFiles/DSA_PW3_map_slla.dir/ShortTest.cpp.obj	3f61bf80b410de8
+4742	5209	6751959578169032	DSA_PW3_map_slla.exe	15a3aa242fff2a83
+189	4070	6751959566728797	CMakeFiles/DSA_PW3_map_slla.dir/MapIterator.cpp.obj	cffe9ec51aa6059e
+879	4741	6751959573608778	CMakeFiles/DSA_PW3_map_slla.dir/ExtendedTest.cpp.obj	cc6bdea36c4bc2af
+179	1728	6751987671038525	build.ninja	a719164874fb54cf
+54	1251	6751987684038895	CMakeFiles/DSA_PW3_map_slla.dir/ShortTest.cpp.obj	3f61bf80b410de8
+42	1269	6751987684198887	CMakeFiles/DSA_PW3_map_slla.dir/Map.cpp.obj	b87043703ae00a9b
+139	1272	6751987683638914	CMakeFiles/DSA_PW3_map_slla.dir/MapIterator.cpp.obj	cffe9ec51aa6059e
+96	1782	6751987690187606	CMakeFiles/DSA_PW3_map_slla.dir/ExtendedTest.cpp.obj	cc6bdea36c4bc2af
+1782	2142	6751987693648643	DSA_PW3_map_slla.exe	15a3aa242fff2a83
+60	1054	6751992338037651	CMakeFiles/DSA_PW3_map_slla.dir/Map.cpp.obj	b87043703ae00a9b
+1055	1602	6751992343438229	DSA_PW3_map_slla.exe	15a3aa242fff2a83
