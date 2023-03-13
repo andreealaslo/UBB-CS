@@ -1,0 +1,20 @@
+Create a single HTML web page for a subject you like (e.g. personal home page, photo collection, movie stars, cars etc.). 
+You can NOT use any CSS or Javascript on your web page! Only basic HTML language. 
+The web page should be HTML5 valid. You will have to use the following HTML tags in your web page: 
+Also you should specify the type of document using <!Doctype>. The page must be at least one screen long and at most 2 screens long (using a resolution of 1024x768 pixels). 
+The textual content of the page should be relevant to the chosen subject (not "lorem ipsum" text). <br/><br/> 
+This single web page can be edited using any editor you want and can be presented on any browser you prefer.
+
+-HTML5: <main> ✅, <section>✅, <article>✅,<footer>✅,<header> ✅,<aside>✅,<nav>
+-figuri: <figure>✅,<figurecaption>✅
+-video/audio: <img>✅, <audio>✅, <video>✅
+-table: <table>✅
+-section tags: <div>✅ - defines a section in an HTML file; 
+		it groups together elements which will be formatted using the same style (in HTML5, it has no special meaning at all
+		<p> ✅ - defines a paragraph; browsers automatically add an empty line before and after a paragraph
+-text-level appearance <b>✅: bold
+-grouping tags: Another grouping tag is unordered list defined using the tags: <ul>✅, <li>✅.
+-anchor tag: The anchor tag, <a>✅, is a very important tag in HTML because it links current document to another document or a section from the current document
+-<br> ✅: line break
+-<hr>✅: linie asa intre paragrafe horizontal
+-<svg>✅: The <svg> tag defines a container for SVG graphics.
